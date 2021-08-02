@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bassakristopher
-- 👀 I’m interested in being a software engineer
+- 👀 I’m interested in being a software developer
 - 🌱 I’m currently learning java at school and C# at home in the summer holiday
 - 📫 How to reach me via e-mail: bassakristopher@gmail.com
 
