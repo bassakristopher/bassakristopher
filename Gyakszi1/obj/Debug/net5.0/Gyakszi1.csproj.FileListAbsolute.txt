@@ -1,0 +1,16 @@
+G:\ C#\egyeb gyakszik\Gyakszi1\bin\Debug\net5.0\Gyakszi1.exe
+G:\ C#\egyeb gyakszik\Gyakszi1\bin\Debug\net5.0\Gyakszi1.deps.json
+G:\ C#\egyeb gyakszik\Gyakszi1\bin\Debug\net5.0\Gyakszi1.runtimeconfig.json
+G:\ C#\egyeb gyakszik\Gyakszi1\bin\Debug\net5.0\Gyakszi1.runtimeconfig.dev.json
+G:\ C#\egyeb gyakszik\Gyakszi1\bin\Debug\net5.0\Gyakszi1.dll
+G:\ C#\egyeb gyakszik\Gyakszi1\bin\Debug\net5.0\ref\Gyakszi1.dll
+G:\ C#\egyeb gyakszik\Gyakszi1\bin\Debug\net5.0\Gyakszi1.pdb
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\Gyakszi1.csproj.AssemblyReference.cache
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\Gyakszi1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\Gyakszi1.AssemblyInfoInputs.cache
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\Gyakszi1.AssemblyInfo.cs
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\Gyakszi1.csproj.CoreCompileInputs.cache
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\Gyakszi1.dll
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\ref\Gyakszi1.dll
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\Gyakszi1.pdb
+G:\ C#\egyeb gyakszik\Gyakszi1\obj\Debug\net5.0\Gyakszi1.genruntimeconfig.cache
